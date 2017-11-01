@@ -1,0 +1,100 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  font-family: 'Rozha One', serif;
+  font-size: 75px;
+  color: turquoise;
+}
+
+p{
+  text-align: center;
+  /*width: 300px;
+  margin: auto;*/
+  font-size: 25px;
+  color: darkblue;
+  font-family: 'Rozha One', serif;
+
+}
+/*how to make blocks centered?*/
+.wrapper{
+  /*width: 1200px;
+  margin: auto 0;*/
+  /*text-align: center;*/
+
+}
+/*.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8{
+  display: inline-block;
+}*/
+.box1{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: purple;
+
+}
+
+.box2{
+  float:left;
+  width: 300px;
+  height: 300px;
+  background-color: orange;
+
+}
+
+.box3{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: lightgreen;
+
+
+}
+
+.box4{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: indianred;
+
+}
+
+.box5{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: hotpink;
+}
+
+.box6{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: slategrey;
+}
+
+
+
+.box7{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: green;
+}
+.box8{
+  float: left;
+  width: 300px;
+  height: 300px;
+  background-color: lightblue;
+}
+
+h2{
+  clear: both;
+  text-align: center;
+  font-family: 'Rozha One', serif;
+  color: red;
+  font-size: 75px;
+
+}
